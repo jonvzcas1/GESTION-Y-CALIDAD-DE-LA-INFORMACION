@@ -1,0 +1,95 @@
+Cualidades de la calidad de la información:
+
+1. Precisa.
+2. Oportuna.
+3. Integra.
+4. Significativa.
+
+Sistema de Gestión de Calidad SGC:
+
+Costo beneficio -> cifras.
+Ejemplo: ganar más clientes.
+
+Paradigmas actuales de la calidad de la información:
+Categorias:
+
+1. Disponibilidad: accequible y segura.
+2. Presentación:consisa, consistente y metodológicamente bien presentada.
+3. Contexto: para que y para quien va dirigido.  Información relevante con valor angregado.
+5. Intrínseco: precisión, objetividad, credibilidad de la información, y reputación que obtenemos.
+
+Recoge, procesa, almacena, distribuye.
+
+-Procesos.
+-Interfaz.
+-------------------------------------------------------------------------------------------------------------
+Sobre la AA1
+
+Una compañía ha venido teniendo problemas con sus clientes en los últimos meses.
+
+Cargo: Director de calidad de la información.
+
+¿Qué hay que hacer?
+
+Plan de acción para implementar un proyecto de calidad de datos.
+
+-Implementar procesos de calidad adaptados a las necesidades de la empresa basados en el control  
+del ciclo de vida de calidad de los datos mediante un perfilado de la estructura del contenido y una limpieza.
+
+Los pasos se dividen en distintas acciones:
+
+-Descubrir.
+-Analizar.
+-Definir.
+-Desarrollar.
+-Revisar y analizar.
+-Monitorear.
+
+Alcance:
+Solicitud global no departamental y a largo plazo
+Transformar pérdidas en beneficios: a través de recursos humanos idoneos, tecnológicos, y tecnologías de vanguardia.
+
+¿Qué se pide?
+Un informe en Word y un video en que estamos montando un plan de acción para implementar un proyecto de información de calidad de datos.
+-------------------------------------------------------------------------------------------------------------
+Pregunta del video.
+¿Qué herramienta o solución propondría para gestionar los activos informativos que demandan o producen las empresas?
+Existen diferentes tipos de herramienta y las herramientas de gestión no se refieren solamente al software 
+
+1) Construcción de los mapas del conocimiento: 
+   	- Conocer el tipo de información que genera la empresa. 
+   	- Conocer los procesos de negocio que se realizan al interior de las organizaciones.
+        - Conocer en la dinámica en que se realizan estos procesos que tipo de información se va a generar. 
+        - Conocer las necesidades de los usuarios.
+
+        Tenemos información interna y externa.
+        
+        El mapa del conocimiento va a permitir tener una mirada hacia como esta información y las necesidades desde adentro
+        de la organización.
+
+        Los niveles gerenciales no se apoyan con información de adentro de la organización en su mayoria es información externa
+        lo que ellos consultan, por tanto también se necesita identificar que tipo de información externa le va agregar valor 
+        a su toma de decisiones para poder satisfacer esa necesidad.
+
+2) Los mapas documentales: si no hay procedimientos de gestión se tendría que saber como se encuentra la información en el momento
+   que estamos dentro de la organización, como se esta solucionando la necesidad en este momento para poder proponer mejoras.
+
+3) En cuanto al software: una vez identificadas las necesidades se podría recomendar establecer las recomendaciones funcionales 
+   para evaluar alguna herramienta en el mercado.  
+
+Lo principal es identificar los procesos.
+     
+
+gestion del conocimiento en la introducción
+
+pag 38 análisis 
+
+analizar definir el sistema de información adecuado para la empresa: buscar en los tipos de información
+
+
+       
+        
+
+
+
+

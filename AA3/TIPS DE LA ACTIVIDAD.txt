@@ -1,0 +1,47 @@
+Toma de decisiones -->> éxito en los negocios
+Como herramienta de apoyo a la toma de decisiones, el ERP permite la integración de la información de las principales áreas operativas de la 
+empresa y al contar con esta automatización se incrementa el nivel de confiabilidad de los datos al diseñar un plan de acción o estrategia.
+
+Hoy en día las empresas no pueden darse el lujo de solamente operar y ser eficientes, deben ir un paso adelante de la competencia visualizando 
+el futuro, en este punto las tecnologías de información juegan un papel preponderante al brindar a las organizaciones la ventaja competitiva 
+que supone contar con información oportuna, certera y en tiempo real. 
+https://blog.corponet.com.mx/la-importancia-de-la-informacion-para-la-toma-de-decisiones-en-la-empresa
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ERP son las siglas de Enterprise Resource Planning. En pocas palabras, definimos un ERP como una solución que integra todos los procesos que 
+utilizas en tu empresa. Piensa durante unos segundos en todos los sistemas que estás usando actualmente. Lo más probable es que tengas uno para 
+la gestión de pedidos e inventarios, otro para recursos humanos, el de contabilidad, etc. ¿No sería maravilloso si estos sistemas pudieran 
+comunicarse entre sí y automatizar las tareas?.
+https://softwarepara.net/ejemplos-erp/
+
+
+El antes y el después de una empresa a través de un ERP
+https://www.youtube.com/watch?time_continue=250&v=iXc0BX2HJNs&feature=emb_logo
+
+HACER DIAGRAMA DE PROCESOS PUNTO 5 GUIARME CON EL ERP
+-----------------------------------------------------
+COMPAÑÍA MULTINACIONAL DE CONFECCIONES
+
+1- EL CLIENTE: Ingresa con su cuenta de usuario  y diligencia un formulario en línea para realizar el pedido a la compañía.
+   Eligen posibilidades de personalización.
+2- El Sistema le indica la fecha de entrega, confirmación y factura. Y si tiene pagos pendientes.
+3- Con los datos que introduce el cliente, el Departamento Financiero conoce el estado de facturación y pagos de cada cliente.
+4- El Departamento de Producción conoce que necesita para hacer cada pedido, si esta en stok, en proceso de fabricación, pedido para fabricar o personalizarse.
+   El calendario de entrada de fabrica y envio.
+5- Se pone en marcha un pedido automático de piezas a sus proveedores pára envitar la falta de stok.
+6- El Departamento Comercial controla cada venta.
+   Con el historial de pedidos indentifica nuevas oportunidades de negocio.
+7- La visita de un vendedor se puede concretar con una venta finalizada gracias a la aplicación movíl.
+8- El flujo de comunicación no tiene intermediarios y el gerente tiene tiempo de concentrarse en los clientes.
+
+
+
+
+
+
+
+
+
+
+HACER ENCABEZADO Y ESQUELETO DEL TRABAJO
+
